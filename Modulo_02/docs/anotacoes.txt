@@ -1,0 +1,67 @@
+Programa de Imunização
+# fonte: http://tabnet.datasus.gov.br/cgi/tabcgi.exe?pni/cnv/cpniuf.def
+- '...' => NaN?
+
+http://www.blog.saude.gov.br/index.php/entenda-o-sus/50027-programa-nacional-de-imunizacoes-pni
+
+História do programa:
+https://scielosp.org/article/csp/2020.v36suppl2/e00222919/
+
+- Documento com a % meta da população para cada vacina:
+https://portalarquivos2.saude.gov.br/images/pdf/2017/agosto/17/AACOBERTURAS-VACINAIS-NO-BRASIL---2010-2014.pdf
+
+
+http://tabnet.datasus.gov.br/cgi/pni/cpnidescr.htm
+
+#####################
+
+
+#### BLOCO 1 ==> Entendendo as bases
+==> motivação: Por que o programa de vacinação brasileiro é considerado exemplar
+=====> será que é exemplar mesmo?
+https://gauchazh.clicrbs.com.br/saude/noticia/2020/09/por-que-o-programa-de-vacinacao-brasileiro-e-considerado-exemplar-ckeyi9ndx0013014yxc17ql6v.html
+
+
+- importar arquivo com as % de cobertura
+- tentar mostrar quais estados conseguiram passar a meta e em qual ano
+- tentar mostrar a tendência dessa % de cobertura
+
+
+#### BLOCO 2 ==> Analisando algumas doenças (sarampo e poliomelite)
+=> motivação: Dia mundial de combate à poliomielite: por que a vacina ainda é importante?
+====> como foi a cobertura para polio?
+- usar arquivo com os número de doses e tentar cruzar com o de %
+
+https://www.uol.com.br/vivabem/noticias/redacao/2020/10/24/dia-mundial-de-combate-a-poliomielite-por-que-a-vacina-ainda-e-importante.htm
+
+==> Considerar apenas as vacinas até 5 ano de idade => fazer uma linha do tempo da vida da crianças
+	Ao nascer – BCG (dose única) + Hepatite B (dose ao nascer)
+	2 meses – Penta (1ª dose) + VIP (1ª dose) + Pneumocócica 10v (1ª dose) + Rotavírus Humano (1ª dose)
+	3 meses – Meningocócica (1ª dose)
+	4 meses – Penta (2ª dose) + VIP (2ª dose) + Pneumocócica 10v (2ª dose) + Rotavírus Humano (2ª dose)
+	5 meses – Meningocócica (2ª dose)
+	6 meses – Penta (3ª dose) + VIP (3ª dose)
+	9 meses – Febre Amarela (dose inicial)
+	12 meses – Pneumocócica 10v (Reforço) + Meningocócica (reforço) + Hepatite A (dose única) + Tríplice Viral (1ª dose)
+	15 meses - Tetraviral (SRCV) + VOP + DTP + Hepatite A
+	4 anos   - DTP + VOP + Febre Amarela + Varicela
+- VIP Poliomielite inativada
+- VOP poliomielite atenuada oral
+- TRÍPLICE VIRAL sarampo, rubéola e caxumba
+- TETRA VIRAL (SRCV) sarampo, caxumba, rubéola e varicela atenuada
+- PENTA VIRAL adsorvida difteria, tétano, coqueluche, haemophilus influenzae B e hepatite B - DTP/Hib/HB
+
+==> Totais por vacina	
+	Totais - poliomielite: Corresponde à soma da cobertura por poliomielite (VOP), poliomielite inativada (VIP) e hexavalente (HX)
+	Totais - sarampo e rubéola: Corresponde à soma da cobertura por tríplice viral (SCR) e dupla viral (SR)
+
+==> pegar população nessa idade (até 5 anos) por ano (2015 a 2019)
+
+##### BLOCO 3
+=> motivação: Sarampo: perder certificado de eliminação é retrocesso inegável, diz especialista
+====> movimento anti vacina
+
+https://www.correiobraziliense.com.br/app/noticia/ciencia-e-saude/2019/03/20/interna_ciencia_saude,744111/sarampo-perder-certificado-de-eliminacao-e-retrocesso-inegavel.shtml
+
+==> PROCURAR BASE DE DADOS COM CASOS (sarampo e poliomelite)
+

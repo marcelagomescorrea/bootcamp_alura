@@ -1,0 +1,65 @@
+## verificar como usa o MELT e CROSSTAB (ver se tem alguma utilidade)
+
+
+#######################  SARAMPO
+
+# 2015 => últimos casos de sarampo no brasil
+# 2016 => Brasil recebe certificado eliminação da circulação do vírus do sarampo pela OMS.
+# 2017 => Venezuela enfrenta um surto de sarampo e há também um intenso movimento migratório
+		-> RR e AM enfrentam surto de casos
+# 2019 => Brasil perde o certificado de eliminação do Sarampo
+
+2017	casos	44
+	óbitos	2
+		
+2018	casos	10262
+	óbitos	12
+		
+2019	casos	15914
+	óbitos	15
+		
+2020	casos	7939
+	óbitos	7
+*até stembro		
+	
+
+
+
+#######################  POLIOMIELITE
+
+-> causa a Paralisia Flácida Aguda (PFA)
+
+
+
+
+Links Importantes:
+	https://antigo.saude.gov.br/boletins-epidemiologicos
+	https://antigo.saude.gov.br/saude-de-a-z/sarampo
+	http://antigo.saude.gov.br/saude-de-a-z/poliomielite
+	https://antigo.saude.gov.br/saude-de-a-z/vacinacao/sobre-o-programa
+
+
+BCG
+Hepatite B em crianças até 30 dias
+Hepatite B
+Poliomielite
+Poliomielite 4 anos
+Poliomielite(1º ref)
+Tríplice Viral D1
+Tetra Viral(SRC+VZ)
+Pneumocócica
+Pneumocócica(1º ref)
+Meningococo C
+Meningococo C (1º ref)
+Penta
+
+BCG: BCG
+HEPATITE B: Hepatite B + Hepatite B em crianças até 30 dias
+TÉTANO, DIFTERIA e COQUELUCHE: Penta 
+
+
+POLIOMIELITE: Poliomielite + Poliomielite 4 anos + Poliomielite(1º ref)
+SARAMPO: Tríplice Viral D1 + Tetra Viral(SRC+VZ)
+MENINGITE: Pneumocócica + Pneumocócica(1º ref) + Meningococo C + Meningococo C (1º ref)
+
+
