@@ -1,26 +1,24 @@
 ﻿VARIÁVEL;QUESTIONÁRIO DO ALUNO
-ANOPESQ;Ano em que a pesquisa foi realizada
-PAIS;País
+ANOPESQ;Ano em que a pesquisa foi realizada;ano
+PAIS;País;pais
 76;Brasil
-REGEOGR;Região geográfica
+REGEOGR;Região geográfica;regiao
 1;Norte
 2;Nordeste
 3;Sudeste
 4;Sul
 5;Centro-Oeste
-VB00004;Prezado(a) estudante, você concorda em participar dessa pesquisa?
-1;Sim
-VB01001;Qual é o seu sexo?
+VB01001;Qual é o seu sexo?;sexo
 1;Masculino
 2;Feminino
-VB01002;Qual é a sua cor ou raça?
+VB01002;Qual é a sua cor ou raça?;cor_raca
 1;Branca
 2;Preta
 3;Amarela
 4;Parda
 5;Indígena
 99;Não informado
-VB01003;Qual é a sua idade?
+VB01003;Qual é a sua idade?;idade
 11;11 anos ou menos
 12;12 anos
 13;13 anos
@@ -30,7 +28,7 @@ VB01003;Qual é a sua idade?
 17;17 anos
 18;18 anos
 19;19 anos ou mais
-VB01021;Em que ano/série você está?
+VB01021;Em que ano/série você está?;serie
 1;6º ano / 5ª série do Ensino Fundamental
 2;7º ano / 6ª série do Ensino Fundamental
 3;8º ano / 7ª série do Ensino Fundamental
@@ -39,29 +37,29 @@ VB01021;Em que ano/série você está?
 6;2º ano Ensino Médio
 7;3º ano Ensino Médio
 99;Não informado
-VB01015A;Na sua casa tem computador (de mesa, ou netbook, laptop, etc)?
+VB01015A;Na sua casa tem computador (de mesa, ou netbook, laptop, etc)?;tem_computador
 1;Sim
 2;Não
 99;Não informado
-VB01016;Você tem acesso à internet em sua casa?
+VB01016;Você tem acesso à internet em sua casa?;tem_internet
 1;Sim
 2;Não
 99;Não informado
-VB01011;Você tem algum trabalho, emprego ou negócio atualmente?
+VB01011;Você tem algum trabalho, emprego ou negócio atualmente?;tem_emprego
 1;Sim
 2;Não
 99;Não informado
-VB01012;Você recebe dinheiro por este trabalho, emprego ou negócio?
+VB01012;Você recebe dinheiro por este trabalho, emprego ou negócio?;recebe_salario
 -1;Pulo no questionário
 1;Sim
 2;Não
 99;Não informado
-VB04001;Alguma vez na vida, você já fumou cigarro, mesmo uma ou duas tragadas? 
+VB04001;Alguma vez na vida, você já fumou cigarro, mesmo uma ou duas tragadas?;ja_fumou
 -1;Pulo no questionário
 1;Sim
 2;Não
 99;Não informado
-VB04002;Que idade você tinha quando experimentou fumar cigarro pela primeira vez?
+VB04002;Que idade você tinha quando experimentou fumar cigarro pela primeira vez?;idade_fumou_primeira_vez
 -1;Pulo no questionário
 7;7 anos de idade ou menos
 8;8 anos
@@ -76,7 +74,7 @@ VB04002;Que idade você tinha quando experimentou fumar cigarro pela primeira ve
 17;17 anos 
 18;18 anos ou mais
 99;Não informado
-VB04003;NOS ÚLTIMOS 30 DIAS, em quantos dias você fumou cigarros?
+VB04003;NOS ÚLTIMOS 30 DIAS, em quantos dias você fumou cigarros?;frequencia_fumar
 -1;Pulo no questionário
 1;Nenhum dia nos últimos 30 dias (0 dia)
 2;1 ou 2 dias nos últimos 30 dias
@@ -86,12 +84,12 @@ VB04003;NOS ÚLTIMOS 30 DIAS, em quantos dias você fumou cigarros?
 6;20 a 29 dias nos últimos 30 dias
 7;Todos os dias nos últimos 30 dias
 99;Não informado
-VB05002;Alguma vez na vida você tomou uma dose de bebida alcoólica? (Uma dose equivale a uma lata de cerveja ou uma taça de vinho ou uma dose de cachaça ou uísque etc)
+VB05002;Alguma vez na vida você tomou uma dose de bebida alcoólica? (Uma dose equivale a uma lata de cerveja ou uma taça de vinho ou uma dose de cachaça ou uísque etc);ja_bebeu
 -1;Pulo no questionário
 1;Sim
 2;Não 
 99;Não informado
-VB05003;Que idade você tinha quando tomou a primeira dose de bebida alcoólica? (Uma dose equivale a uma lata de cerveja ou uma taça de vinho ou uma dose de cachaça ou uísque etc)
+VB05003;Que idade você tinha quando tomou a primeira dose de bebida alcoólica? (Uma dose equivale a uma lata de cerveja ou uma taça de vinho ou uma dose de cachaça ou uísque etc);idade_bebe_primeira_vez
 -1;Pulo no questionário
 1;Nunca tomei bebida alcoólica
 7;7 anos de idade ou menos
@@ -107,7 +105,7 @@ VB05003;Que idade você tinha quando tomou a primeira dose de bebida alcoólica?
 17;17 anos 
 18;18 anos ou mais
 99;Não informado
-VB05004;NOS ÚLTIMOS 30 DIAS, em quantos dias você tomou pelo menos um copo ou uma dose de bebida alcoólica? (Uma dose equivale a uma lata de cerveja ou uma taça de vinho ou uma dose de cachaça ou uísque etc)
+VB05004;NOS ÚLTIMOS 30 DIAS, em quantos dias você tomou pelo menos um copo ou uma dose de bebida alcoólica? (Uma dose equivale a uma lata de cerveja ou uma taça de vinho ou uma dose de cachaça ou uísque etc);frequencia_beber
 -1;Pulo no questionário
 1;Nenhum dia nos últimos 30 dias (0 dia)
 2;1 ou 2 dias nos últimos 30 dias
@@ -117,7 +115,7 @@ VB05004;NOS ÚLTIMOS 30 DIAS, em quantos dias você tomou pelo menos um copo ou 
 6;20 a 29 dias nos últimos 30 dias
 7;Todos os dias nos últimos 30 dias
 99;Não informado
-VB05005;NOS ÚLTIMOS 30 DIAS, nos dias em que você tomou alguma bebida alcoólica, quantos copos ou doses você tomou por dia? 
+VB05005;NOS ÚLTIMOS 30 DIAS, nos dias em que você tomou alguma bebida alcoólica, quantos copos ou doses você tomou por dia?;frequencia_diaria_beber
 -1;Pulo no questionário
 1;Não tomei nenhuma bebida alcoólica nos últimos 30 dias (0 dia)
 2;Menos de um copo ou dose nos últimos 30 dias 
@@ -127,7 +125,7 @@ VB05005;NOS ÚLTIMOS 30 DIAS, nos dias em que você tomou alguma bebida alcoóli
 6;4 copos ou 4 doses nos últimos 30 dias
 7;5 copos ou mais ou 5 doses ou mais nos últimos 30 dias 
 99;Não informado
-VB05007;Na sua vida, quantas vezes você bebeu tanto que ficou realmente bêbado(a)?
+VB05007;Na sua vida, quantas vezes você bebeu tanto que ficou realmente bêbado(a)?;frequencia_bebado
 -1;Pulo no questionário
 1;Nenhuma vez na vida (0 vez)
 2;1 ou 2 vezes na vida 
@@ -135,12 +133,12 @@ VB05007;Na sua vida, quantas vezes você bebeu tanto que ficou realmente bêbado
 4;6 a 9 vezes na vida 
 5;10 ou mais vezes na vida 
 99;Não informado
-VB06001;Alguma vez na vida, você já usou alguma droga-como: maconha, cocaína, crack, loló, lança-perfume, ecstasy, oxy, etc?
+VB06001;Alguma vez na vida, você já usou alguma droga-como: maconha, cocaína, crack, loló, lança-perfume, ecstasy, oxy, etc?;ja_usou_drogas
 -1;Pulo no questionário
 1;Sim
 2;Não
 99;Não informado
-VB06002;Que idade você tinha quando usou droga como maconha, cocaína, crack, cola, loló, lança-perfume, ecstasy, oxy ou outra, pela primeira vez?
+VB06002;Que idade você tinha quando usou droga como maconha, cocaína, crack, cola, loló, lança-perfume, ecstasy, oxy ou outra, pela primeira vez?;idade_droga_primeira_vez
 -1;Pulo no questionário
 7;7 anos ou menos
 8;8 anos
@@ -155,7 +153,7 @@ VB06002;Que idade você tinha quando usou droga como maconha, cocaína, crack, c
 17;17 anos
 18;18 anos ou mais
 99;Não informado
-VB06003A;NOS ÚLTIMOS 30 DIAS, quantos dias você usou droga como maconha, cocaína, crack, cola, loló, lança-perfume, ecstasy, oxy, etc?
+VB06003A;NOS ÚLTIMOS 30 DIAS, quantos dias você usou droga como maconha, cocaína, crack, cola, loló, lança-perfume, ecstasy, oxy, etc?;frequencia_drogas
 -1;Pulo no questionário
 1;Nenhum dia nos últimos 30 dias (0 dia)
 2;1 ou 2 dias nos últimos 30 dias
@@ -163,14 +161,14 @@ VB06003A;NOS ÚLTIMOS 30 DIAS, quantos dias você usou droga como maconha, coca�
 4;6 a 9 dias nos últimos 30 dias
 5;10 ou mais dias nos últimos 30 dias
 99;Não informado
-VB07007;NOS ÚLTIMOS 30 DIAS, com que frequência algum dos seus colegas de escola te esculacharam, zoaram, mangaram, intimidaram ou caçoaram tanto que você ficou magoado, incomodado, aborrecido, ofendido ou humilhado?
+VB07007;NOS ÚLTIMOS 30 DIAS, com que frequência algum dos seus colegas de escola te esculacharam, zoaram, mangaram, intimidaram ou caçoaram tanto que você ficou magoado, incomodado, aborrecido, ofendido ou humilhado?;frequencia_bullying
 1;Nunca
 2;Raramente
 3;Às vezes
 4;Na maior parte do tempo
 5;Sempre
 99;Não informado
-VB07008;NOS ÚLTIMOS 30 DIAS, qual o motivo/causa de seus colegas terem te esculachado, zombado, zoado, caçoado, mangado, intimidado ou humilhado?
+VB07008;NOS ÚLTIMOS 30 DIAS, qual o motivo/causa de seus colegas terem te esculachado, zombado, zoado, caçoado, mangado, intimidado ou humilhado?;motivo_bullying
 -1;Pulo no questionário
 1;A minha cor ou raça
 2;A minha religião
@@ -180,28 +178,28 @@ VB07008;NOS ÚLTIMOS 30 DIAS, qual o motivo/causa de seus colegas terem te escul
 6;A minha região de origem
 7;Outros motivos/causas
 99;Não informado
-VB07009;NOS ÚLTIMOS 30 DIAS, você esculachou, zombou, mangou, intimidou ou caçoou algum de seus colegas da escola tanto que ele ficou magoado, aborrecido, ofendido ou humilhado?
+VB07009;NOS ÚLTIMOS 30 DIAS, você esculachou, zombou, mangou, intimidou ou caçoou algum de seus colegas da escola tanto que ele ficou magoado, aborrecido, ofendido ou humilhado?frequencia_pratica_bullying
 1;Sim
 2;Não
 99;Não informado
-VB07010;Você já sofreu bullying?
+VB07010;Você já sofreu bullying?;ja_sofreu_bullying
 1;Sim
 2;Não
 3;Não sei o que é bullying
 99;Não informado
-VB12001;NOS ÚLTIMOS 12 MESES com que frequência tem se sentido sozinho(a)? 
+VB12001;NOS ÚLTIMOS 12 MESES com que frequência tem se sentido sozinho(a)?;frequencia_solidao
 1;Nunca
 2;Raramente
 3;Às vezes
 4;Na maioria das vezes
 5;Sempre
 99;Não informado
-VB08001;Você já teve relação sexual (transou) alguma vez?
+VB08001;Você já teve relação sexual (transou) alguma vez?;ja_transou
 -1;Pulo no questionário
 1;Sim
 2;Não
 99;Não informado
-VB08002;Que idade você tinha quando teve relação sexual (transou) pela primeira vez?
+VB08002;Que idade você tinha quando teve relação sexual (transou) pela primeira vez?;idade_sexo_primeira_vez
 -1;Pulo no questionário
 9;9 anos ou menos
 10;10 anos
@@ -214,12 +212,12 @@ VB08002;Que idade você tinha quando teve relação sexual (transou) pela primei
 17;17 anos
 18;18 anos ou mais
 99;Não informado
-VB08011;Você usou preservativo na primeira relação sexual?
+VB08011;Você usou preservativo na primeira relação sexual?;usou_preservativo
 -1;Pulo no questionário
 1;Sim
 2;Não
 99;Não informado
-VB08003A;Na sua vida, com quantas pessoas você teve relações sexuais (transou)?
+VB08003A;Na sua vida, com quantas pessoas você teve relações sexuais (transou)?;quantidade_parceiros
 -1;Pulo no questionário
 1;1 pessoa 
 2;2 pessoas 
@@ -228,25 +226,25 @@ VB08003A;Na sua vida, com quantas pessoas você teve relações sexuais (transou
 5;5 pessoas 
 6;6 ou mais pessoas 
 99;Não informado
-VB08005;Na última vez que você teve relação sexual (transou), você ou seu(sua) parceiro(a) usou algum método para evitar a gravidez e/ou Doenças Sexualmente Transmissíveis (DST)
+VB08005;Na última vez que você teve relação sexual (transou), você ou seu(sua) parceiro(a) usou algum método para evitar a gravidez e/ou Doenças Sexualmente Transmissíveis (DST);usou_contraceptivo
 -1;Pulo no questionário
 1;Sim
 2;Não
 3;Não sei
 99;Não informado
-VB08006;Na última vez que você teve relação sexual (transou), você ou seu(sua) parceiro(a) usou camisinha (preservativo)?
+VB08006;Na última vez que você teve relação sexual (transou), você ou seu(sua) parceiro(a) usou camisinha (preservativo)?;usou_preservativo
 -1;Pulo no questionário
 1;Sim
 2;Não
 3;Não sei
 99;Não informado
-VB08007;Na última vez que você teve relação sexual (transou), você ou seu(sua) parceiro(a) usou algum outro método para evitar a gravidez (não contar camisinha)?T)
+VB08007;Na última vez que você teve relação sexual (transou), você ou seu(sua) parceiro(a) usou algum outro método para evitar a gravidez (não contar camisinha)?;usou_outro_metodo
 -1;Pulo no questionário
 1;Sim
 2;Não
 3;Não sei
 99;Não informado
-VB08012;Nesta última vez que você teve relação sexual (transou), qual outro método para evitar gravidez você ou sua parceira usou?
+VB08012;Nesta última vez que você teve relação sexual (transou), qual outro método para evitar gravidez você ou sua parceira usou?;outro_metodo
 -1;Pulo no questionário
 1;Pílula anticoncepcional 
 2;Injetável mensal
@@ -255,105 +253,99 @@ VB08012;Nesta última vez que você teve relação sexual (transou), qual outro 
 5;DIU
 6;Outro
 99;Não informado
-VB08013;Alguma vez na vida você engravidou?
+VB08013;Alguma vez na vida você engravidou?;ja_engravidou
 -1;Pulo no questionário
 1;Sim
 2;Não
 99;Não informado
-VB08008;Na escola, você já recebeu orientação sobre prevenção de gravidez?
+VB08008;Na escola, você já recebeu orientação sobre prevenção de gravidez?;ja_recebeu_orientacao_gravidez
 -1;Pulo no questionário
 1;Sim
 2;Não
 3;Não sei
 99;Não informado
-VB09016;Alguma vez na vida você foi forçado a ter relação sexual? 
+VB09016;Alguma vez na vida você foi forçado a ter relação sexual?;ja_estupro
 -1;Pulo no questionário
 1;Sim
 2;Não
 99;Não informado
-VB0901701;Um(a) namorado(a)/ex-namorado(a) forçou você a ter relação sexual?
+VB0901701;Um(a) namorado(a)/ex-namorado(a) forçou você a ter relação sexual?;estupro_namorado
 -1;Pulo no questionário
 1;Sim
 2;Não
 99;Não informado
-VB0901702;Um(a) amigo(a) forçou você a ter relação sexual?
+VB0901702;Um(a) amigo(a) forçou você a ter relação sexual?;estupro_amigo
 -1;Pulo no questionário
 1;Sim
 2;Não
 99;Não informado
-VB0901703;Seu pai/mãe/padastro/madrasta forçou você a ter relação sexual?
+VB0901703;Seu pai/mãe/padastro/madrasta forçou você a ter relação sexual?;estupro_responsavel
 -1;Pulo no questionário
 1;Sim
 2;Não
 99;Não informado
-VB0901704;Outros familiares forçaram você a ter relação sexual?
+VB0901704;Outros familiares forçaram você a ter relação sexual?;estupro_familiar
 -1;Pulo no questionário
 1;Sim
 2;Não
 99;Não informado
-VB0901705;Um(a) desconhecido(a) forçou você a ter relação sexual?
+VB0901705;Um(a) desconhecido(a) forçou você a ter relação sexual?;estupro_desconhecido
 -1;Pulo no questionário
 1;Sim
 2;Não
 99;Não informado
-VB0901706;Outras pessoas forçaram você a ter relação sexual?
+VB0901706;Outras pessoas forçaram você a ter relação sexual?;estupro_outros
 -1;Pulo no questionário
 1;Sim
 2;Não
 99;Não informado
-VB13005;Como você classificaria seu estado de saúde?
+VB13005;Como você classificaria seu estado de saúde?;estado_saude
 1;Muito bom
 2;Bom
 3;Regular
 4;Ruim
 5;Muito ruim
 99;Não informado
-VB11006;Você considera sua imagem corporal como sendo algo:
+VB11006;Você considera sua imagem corporal como sendo algo:;imagem_corporal
 1;Muito importante
 2;Importante
 3;Pouco importante
 4;Sem importância
 99;Não informado
-VB11007;Como você se sente em relação ao seu corpo?
+VB11007;Como você se sente em relação ao seu corpo?;satisfacao_corpo
 1;Muito satisfeito(a)
 2;Satisfeito(a)
 3;Indiferente
 4;Insatisfeito(a)
 5;Muito insatisfeito(a)
 99;Não informado
-VB11001;Quanto ao seu corpo, você se considera: 
+VB11001;Quanto ao seu corpo, você se considera:;como_considera_corpo
 1;Muito magro(a) 
 2;Magro(a)
 3;Normal
 4;Gordo(a)
 5;Muito Gordo(a)
 99;Não informado
-VB11002;O que você está fazendo em relação a seu peso?
+VB11002;O que você está fazendo em relação a seu peso?;acao_relacionada_peso
 1;Não estou fazendo nada
 2;Estou tentando perder peso
 3;Estou tentando ganhar peso 
 4;Estou tentando manter o mesmo peso
 99;Não informado
-VB17003;Peso do estudante, incluindo os imputados, com uma casa decimal 
-VB17004;Altura do estudante, incluindo os imputados, com uma casa decimal
-VB17005;Variável identificadora se houve imputação no peso e/ou altura do estudante
-1;Sim
-2;Não
-VB17006;Variável identificadora do estado nutricional do estudante, onde: déficit de peso=1
+VB17003;Peso do estudante, incluindo os imputados, com uma casa decimal;peso
+VB17004;Altura do estudante, incluindo os imputados, com uma casa decimal;peso
+VB17006;Variável identificadora do estado nutricional do estudante, onde: déficit de peso=1;estado_nutricional
 1;Deficit de peso
 2;Eutrofia
 3;Sobrepeso
-4;Obesidade
-ESTRATOGEOREG;Indicador de estrato georeg
-ESTRATO_EXP;Expressão do estrato
-PESO;Peso do aluno de acordo com a amostra, utilizado para expansão
-V0006;Situação da escola
+4;Obesidadeso
+V0006;Situação da escola;situacao_escola
 1;Urbana
 2;Rural
-V0007;Dependência Administrativa da escola
+V0007;Dependência Administrativa da escola;tipo_escola
 1;Pública
 2;Privada
-V0041;Tipo de escola privada
+V0041;Tipo de escola privada;tipo_escola_privada
 -1;Pulo no questionário
 1;Particular
 2;Comunitária
