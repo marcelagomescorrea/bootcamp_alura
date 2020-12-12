@@ -333,7 +333,7 @@ VB11002;O que você está fazendo em relação a seu peso?;acao_relacionada_peso
 4;Estou tentando manter o mesmo peso
 99;Não informado
 VB17003;Peso do estudante, incluindo os imputados, com uma casa decimal;peso
-VB17004;Altura do estudante, incluindo os imputados, com uma casa decimal;peso
+VB17004;Altura do estudante, incluindo os imputados, com uma casa decimal;altura
 VB17006;Variável identificadora do estado nutricional do estudante, onde: déficit de peso=1;estado_nutricional
 1;Deficit de peso
 2;Eutrofia
