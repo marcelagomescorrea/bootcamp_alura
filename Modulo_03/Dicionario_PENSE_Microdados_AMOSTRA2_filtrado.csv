@@ -70,7 +70,7 @@ VB04002;Que idade você tinha quando experimentou fumar cigarro pela primeira ve
 14;14 anos;
 15;15 anos;
 16;16 anos;
-17;17 anos ;
+17;17 anos;
 18;18 anos ou mais;
 99;Não informado;
 VB04003;NOS ÚLTIMOS 30 DIAS, em quantos dias você fumou cigarros?;frequencia_fumar
@@ -101,7 +101,7 @@ VB05003;Que idade você tinha quando tomou a primeira dose de bebida alcoólica?
 14;14 anos;
 15;15 anos;
 16;16 anos;
-17;17 anos ;
+17;17 anos;
 18;18 anos ou mais;
 99;Não informado;
 VB05004;NOS ÚLTIMOS 30 DIAS, em quantos dias você tomou pelo menos um copo ou uma dose de bebida alcoólica? (Uma dose equivale a uma lata de cerveja ou uma taça de vinho ou uma dose de cachaça ou uísque etc);frequencia_beber
