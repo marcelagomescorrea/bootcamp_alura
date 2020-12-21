@@ -60,7 +60,7 @@ VB04001;Alguma vez na vida, você já fumou cigarro, mesmo uma ou duas tragadas?
 99;Não informado;
 VB04002;Que idade você tinha quando experimentou fumar cigarro pela primeira vez?;idade_fumou_primeira_vez
 -1;Pulo no questionário;
-7;7 anos de idade ou menos;
+7;7 anos ou menos;
 8;8 anos;
 9;9 anos;
 10;10 anos;
@@ -91,7 +91,7 @@ VB05002;Alguma vez na vida você tomou uma dose de bebida alcoólica? (Uma dose 
 VB05003;Que idade você tinha quando tomou a primeira dose de bebida alcoólica? (Uma dose equivale a uma lata de cerveja ou uma taça de vinho ou uma dose de cachaça ou uísque etc);idade_bebeu_primeira_vez
 -1;Pulo no questionário;
 1;Nunca tomei bebida alcoólica;
-7;7 anos de idade ou menos;
+7;7 anos ou menos;
 8;8 anos;
 9;9 anos;
 10;10 anos;
