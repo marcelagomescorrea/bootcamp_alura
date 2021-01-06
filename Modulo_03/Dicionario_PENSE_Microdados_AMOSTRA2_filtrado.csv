@@ -177,7 +177,7 @@ VB07008;NOS ÚLTIMOS 30 DIAS, qual o motivo/causa de seus colegas terem te escul
 6;A minha região de origem;
 7;Outros motivos/causas;
 99;Não informado;
-VB07009;NOS ÚLTIMOS 30 DIAS, você esculachou, zombou, mangou, intimidou ou caçoou algum de seus colegas da escola tanto que ele ficou magoado, aborrecido, ofendido ou humilhado?;frequencia_pratica_bullying
+VB07009;NOS ÚLTIMOS 30 DIAS, você esculachou, zombou, mangou, intimidou ou caçoou algum de seus colegas da escola tanto que ele ficou magoado, aborrecido, ofendido ou humilhado?;ja_praticou_bullying
 1;Sim;
 2;Não;
 99;Não informado;
