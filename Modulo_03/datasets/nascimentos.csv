@@ -1,0 +1,36 @@
+﻿"Tabela 2612 - Nascidos vivos, ocorridos no ano, por mês do nascimento, sexo, local de nascimento, número de nascidos por parto, idade da mãe na ocasião do parto e lugar de residência da mãe"
+"Variável - Nascidos vivos ocorridos no ano (Pessoas)"
+"Grande Região";"Número de nascidos por parto";"Idade da mãe na ocasião do parto";"Mês do nascimento x Ano x Sexo x Local do nascimento"
+"Grande Região";"Número de nascidos por parto";"Idade da mãe na ocasião do parto";"Total"
+"Grande Região";"Número de nascidos por parto";"Idade da mãe na ocasião do parto";"2003";"2004";"2005";"2006";"2007";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019"
+"Grande Região";"Número de nascidos por parto";"Idade da mãe na ocasião do parto";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total"
+"Grande Região";"Número de nascidos por parto";"Idade da mãe na ocasião do parto";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total";"Total"
+"Norte";"Total";"Menos de 15 anos";"2420";"2433";"2792";"2759";"3015";"2973";"2984";"2913";"3028";"3329";"3366";"3650";"3586";"3340";"2906";"2909";"2838"
+"Norte";"Total";"15 a 19 anos";"57859";"56473";"62120";"61992";"61913";"61272";"60094";"59380";"62985";"64401";"66271";"69094";"67556";"62744";"60472";"59448";"57192"
+"Nordeste";"Total";"Menos de 15 anos";"6979";"6762";"7425";"8009";"7920";"8262";"8136";"8117";"8026";"8396";"8333";"8522";"8696";"8002";"7528";"7270";"6579"
+"Nordeste";"Total";"15 a 19 anos";"185215";"188120";"196178";"185874";"180219";"174094";"164176";"158238";"162355";"160050";"157595";"160534";"160350";"150753";"146671";"141313";"130056"
+"Sudeste";"Total";"Menos de 15 anos";"6759";"6417";"6271";"6588";"6814";"7079";"6862";"6504";"6488";"6692";"6744";"7170";"6594";"5760";"5374";"4997";"4419"
+"Sudeste";"Total";"15 a 19 anos";"202906";"199273";"198199";"190600";"184415";"178544";"173726";"167621";"171027";"173237";"173592";"173686";"167189";"151270";"145510";"134326";"121620"
+"Sul";"Total";"Menos de 15 anos";"2748";"2758";"2838";"2873";"2684";"2823";"2743";"2571";"2519";"2611";"2564";"2756";"2417";"2132";"1799";"1641";"1510"
+"Sul";"Total";"15 a 19 anos";"70191";"71006";"70811";"68098";"63416";"63373";"61977";"60272";"60345";"61199";"62362";"61603";"59407";"53456";"49535";"46166";"42159"
+"Centro-Oeste";"Total";"Menos de 15 anos";"1897";"1815";"1938";"1906";"1814";"1964";"1869";"1810";"1685";"1740";"1856";"2003";"1840";"1695";"1497";"1385";"1327"
+"Centro-Oeste";"Total";"15 a 19 anos";"46080";"45145";"46091";"43828";"41318";"41312";"39720";"38742";"39278";"40251";"40788";"41931";"40313";"36626";"34402";"32999";"31643"
+"Fonte: IBGE - Pesquisa Estatísticas do Registro Civil"
+
+""
+"Legenda"
+"Símbolo";"Significado"
+"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0";"Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X";"Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..";"Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...";"Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
