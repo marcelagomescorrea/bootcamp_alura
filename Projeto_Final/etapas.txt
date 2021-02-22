@@ -1,0 +1,16 @@
+ETAPAS
+
+
+1) Análise Exploratória - Entendendo os dados
+2) Data Cleaning - Preparando os dados
+	2.1) Dados nulos -> imputando os dados
+	2.2) Removendo Leaky Features
+	2.3) Colunas Dummy
+3) Data Analysis - Selecionando Features
+	3.1) Correlação entre Features
+	3.2) SHAP - Rankeando Features
+	3.3) Separando dados de testes e dados de treino
+4)
+	4.1) Modelo de Base
+	4.2) Treinando famílias
+	4.3) 
